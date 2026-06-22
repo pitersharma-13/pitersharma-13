@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Piter Sharma</h1>
-<h3 align="center">    Cybersecurity Enthusiast | Linux & Networking Learner</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,100:a371f7&text=Piter%20Sharma&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=40" width="100%"/>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=pitersharma-13">
@@ -7,7 +6,22 @@
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/62/12/48/6212485181ca055f760855d98d3ee4bc.gif" alt="Banner" width="100%" />
+
+## 📌 About Me
+- 🔭 **I’m currently working on:** Student
+- 🌱 **I’m currently learning:** Linux || Networking
+- 📫 **How to reach me:** Sharmapeter-7@gmail.com
+- 😄 **Pronouns:** Piter Bro
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+
+
+## 🧠 My Focus Areas
+* Ethical Hacking & Vulnerability Assessment
+* Linux Systems & Command Line Operations
+* Networking Fundamentals (TCP/IP, DNS, HTTP/S)
+* Basic Scripting for Automation (Python / Bash)
+* Cybersecurity Learning & Lab Practice (CTFs, TryHackMe, Hack The Box)
+
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
@@ -21,9 +35,6 @@
 </p>
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pitersharma-13&theme=nightowl&radius=10" alt="pitersharma-13's Activity Graph" />
-</p>
-<p align="center">
-  <img src="/3d-city.gif" alt="3D City View Preview" width="100%" />
 </p>
 
 
@@ -75,17 +86,14 @@
   </a>
 </p>
 
-## 💬 Quote
-> Think like an attacker, build like a defender, and learn like a student.
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/czl9707/gh-space-shooter/main/example.gif" alt="Space shooter contribution graph" />
 </p>
 
 <p align="center"><a href="https://www.buymeacoffee.com/chamidudili" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a></p>
+<img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" alt="Bottom Line" width="100%" />
 </div>
-
 
