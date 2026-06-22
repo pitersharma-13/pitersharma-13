@@ -10,7 +10,7 @@
 ## 📌 About Me
 - 🔭 **I’m currently working on:** Student
 - 🌱 **I’m currently learning:** Linux || Networking
-- 📫 **How to reach me:** Sharmapeter-7@gmail.com
+- 📫 **How to reach me:** Sharmapeter07@gmail.com
 - 😄 **Pronouns:** Piter Bro
 - ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
