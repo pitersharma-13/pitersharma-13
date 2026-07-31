@@ -12,7 +12,7 @@
 -  **I’m currently learning:** Linux || Networking
 -  **How to reach me:** Sharmapeter07@gmail.com
 -  **Pronouns:** Piter Bro
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+-  **Fun fact:** I Love Tech and Tech Love Me
 
 
 ## 🧠 My Focus Areas
