@@ -23,19 +23,7 @@
 * Cybersecurity Learning & Lab Practice (CTFs, TryHackMe, Hack The Box)
 
 
-## 📊 GitHub Stats & Trophies
-<p align="center">
-  <a href="https://github.com/pitersharma-13">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pitersharma-13&cache_seconds=7200&layout=compact&theme=nightowl&border_radius=10" alt="pitersharma-13's GitHub Stats" />
-  </a>
-  <img src="https://streak-stats.demolab.com/?user=pitersharma-13&theme=nightowl&hide_border=true&cache_seconds=86400" alt="pitersharma-13's GitHub Streak" width="49%" />
-</p>
-<p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=pitersharma-13&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Piter Sharma's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=pitersharma-13&theme=nightowl&radius=10" alt="pitersharma-13's Activity Graph" />
-</p>
+
 
 
 ## 🛠️ Languages & Tools
