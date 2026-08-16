@@ -7,7 +7,7 @@
 </p>
 
 
-## 📌 About Me
+##  About Me
 -  **I’m currently working on:** Student
 -  **I’m currently learning:** Linux || Networking
 -  **How to reach me:** Sharmapeter07@gmail.com
@@ -26,7 +26,7 @@
 
 
 
-## 🛠️ Languages & Tools
+##  Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
 <p align="center">
@@ -58,7 +58,7 @@
 ![Top language](https://stats.pphat.top/languages?username=pitersharma-13)
 <br/>
 
-## 🔗 Connect with Me
+##  Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-sharma-264b83372/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" alt="LinkedIn" width="40" />
