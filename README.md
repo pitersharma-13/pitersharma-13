@@ -15,7 +15,7 @@
 -  **Fun fact:** I Love Tech and Tech Love Me
 
 
-## 🧠 My Focus Areas
+##  My Focus Areas
 * Ethical Hacking & Vulnerability Assessment
 * Linux Systems & Command Line Operations
 * Networking Fundamentals (TCP/IP, DNS, HTTP/S)
