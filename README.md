@@ -106,4 +106,15 @@ status:      "I love Tech and Tech loves Me"
 </p>
 
 <br/>
+<!-- About Me -->
 
+<p align="center">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExY2FjazlpdmJ3M3EwN2hwNG84bmtva2Z0d2Q3dnQ0cDN2ampsMDRzOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ENY5vJgJPEfG3Ym14H/giphy.gif"
+       width="500"
+       alt="Cybersecurity GIF">
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1500&color=2ea043&center=true&multiline=true&width=800&height=160&lines=Hey%2C+I'm+Piter+%F0%9F%91%8B;BSc+CSIT+Student+%7C+Linux+%26+Networking+Learner;Exploring+Ethical+Hacking+%26+Penetration+Testing;Always+learning+and+building;Let's+connect+and+build+something+together+%3E_"
+       alt="About me typing">
+</p>
