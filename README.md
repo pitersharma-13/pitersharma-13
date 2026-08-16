@@ -35,20 +35,28 @@ status:      "I love Tech and Tech loves Me"
 
 <br/>
 
+
+
+
 ## `$ ./tools --list`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=39D353" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=39D353" />
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=39D353" />
-  <img src="https://img.shields.io/badge/Bash-000000?style=for-the-badge&logo=gnubash&logoColor=39D353" />
-  <br/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=39D353" />
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=39D353" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=39D353" />
-  <img src="https://img.shields.io/badge/VS%20Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=39D353" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="32" height="32"/> <b>Python</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="32" height="32"/> <b>C++</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="32" height="32"/> <b>C</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="32" height="32"/> <b>HTML5</b>
+  <br/><br/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="32" height="32"/> <b>CSS3</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="32" height="32"/> <b>Bash</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="32" height="32"/> <b>Git</b>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="32" height="32"/> <b>Linux</b>
 </p>
-
 <br/>
 
 ## `$ ./stats --live`
@@ -57,6 +65,7 @@ status:      "I love Tech and Tech loves Me"
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pitersharma-13&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=39D353&icon_color=39D353&text_color=c9d1d9" />
   <img height="165em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pitersharma-13&layout=compact&langs_count=8&theme=dark&hide_border=true&bg_color=0d1117&title_color=39D353&text_color=c9d1d9" />
 </p>
+
 
 <br/>
 
@@ -80,19 +89,23 @@ status:      "I love Tech and Tech loves Me"
 
 <p align="center">
   <a href="https://www.linkedin.com/in/peter-sharma-264b83372/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39D353" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://wa.me/9867686828">
-    <img src="https://img.shields.io/badge/WhatsApp-000000?style=for-the-badge&logo=whatsapp&logoColor=39D353" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:Sharmapeter07@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39D353" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://sharmapeter-portfolio.netlify.app">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=39D353" />
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" />
   </a>
 </p>
 
 <br/>
-
-<img src="https://capsule-render.vercel.app/api?type=venom&height=100&color=0:39D353,100:000000&section=footer" width="100%"/>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/hacking/hacking.png" width="150" />
+</p>
