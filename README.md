@@ -1,12 +1,13 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:0d1117,100:39D353&text=PITER%20SHARMA&fontSize=55&fontColor=39D353&animation=fadeIn&fontAlignY=40&desc=Ethical%20Hacker%20%7C%20Linux%20%7C%20Networking&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:0d1117,100:2ea043&text=PITER%20SHARMA&fontSize=55&fontColor=2ea043&animation=fadeIn&fontAlignY=40&desc=Ethical%20Hacker%20%7C%20Linux%20%7C%20Networking&descAlignY=65&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=39D353&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;Piter+Sharma+-+Security+Enthusiast;root%40kali%3A~%23+cat+skills.txt;Linux+%7C+Networking+%7C+Python+%7C+Bash" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2ea043&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;Piter+Sharma+-+Security+Enthusiast;root%40kali%3A~%23+cat+skills.txt;Linux+%7C+Networking+%7C+Python+%7C+Bash" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=pitersharma-13&label=PROFILE+VIEWS&color=39D353&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=pitersharma-13&label=PROFILE+VIEWS&color=2ea043&style=for-the-badge&labelColor=0d1117" alt="Profile views" />
 </p>
+
 
 <br/>
 
