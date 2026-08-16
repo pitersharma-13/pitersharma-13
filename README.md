@@ -106,6 +106,4 @@ status:      "I love Tech and Tech loves Me"
 </p>
 
 <br/>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/hacking/hacking.png" width="150" />
-</p>
+
