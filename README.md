@@ -1,14 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:0d1117,100:2ea043&text=  ____ ___ _____ _____ ____  
- |  _ \_ _|_   _| ____|  _ \ 
- | |_) | |  | | |  _| | |_) |
- |  __/| |  | | | |___|  _ < 
- |_|  |___| |_| |_____|_| \_\
-                             %20  ____  _   _    _    ____  __  __    _    
- / ___|| | | |  / \  |  _ \|  \/  |  / \   
- \___ \| |_| | / _ \ | |_) | |\/| | / _ \  
-  ___) |  _  |/ ___ \|  _ <| |  | |/ ___ \ 
- |____/|_| |_/_/   \_\_| \_\_|  |_/_/   \_\
-                                           &fontSize=55&fontColor=2ea043&animation=fadeIn&fontAlignY=40&desc=Ethical%20Hacker%20%7C%20Linux%20%7C%20Networking&descAlignY=65&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&color=0:000000,50:0d1117,100:2ea043&text=PETER%20SHARMA&fontSize=55&fontColor=2ea043&animation=fadeIn&fontAlignY=40&desc=Ethical%20Hacker%20%7C%20Linux%20%7C%20Networking&descAlignY=65&descSize=18" width="100%"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=800&color=2ea043&center=true&vCenter=true&width=600&lines=root%40kali%3A~%23+whoami;Piter+Sharma+-+Security+Enthusiast;root%40kali%3A~%23+cat+skills.txt;Linux+%7C+Networking+%7C+Python+%7C+Bash" alt="Typing SVG" />
