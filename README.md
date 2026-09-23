@@ -100,7 +100,7 @@ status:      "I love Tech and Tech loves Me"
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://sharmapeter-portfolio.netlify.app">
+  <a href="https://piterportfolio.netlify.app/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" width="40" />
   </a>
 </p>
