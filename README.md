@@ -92,9 +92,7 @@ status:      "I love Tech and Tech loves Me"
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/9867686828">
-    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WhatsApp.svg" width="40" />
-  </a>
+
   &nbsp;&nbsp;
   <a href="mailto:Sharmapeter07@gmail.com">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg" width="40" />
