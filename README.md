@@ -11,18 +11,6 @@
 
 <br/>
 
-## `$ cat about.md`
-
-```yaml
-role:        Student
-learning:    [Linux, Networking]
-focus:       Ethical Hacking & Vulnerability Assessment
-contact:     Sharmapeter07@gmail.com
-status:      "I love Tech and Tech loves Me"
-```
-
-<br/>
-
 ## `$ ls focus_areas/`
 
 ```
